@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Start">Start</string>
+    <string name="Statistics">Statistics</string>
+    <string name="remove_me">REMOVE ME</string>
+    <string name="memory_game">memory_game.db</string>
+    <string name="Register">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="refresh">REFRESH</string>
+</resources>
